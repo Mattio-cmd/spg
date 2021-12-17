@@ -16,4 +16,10 @@ setup(
     include_package_data=True,
     install_requires=['rich', 'pyperclip'],
     keywords=['password', 'cli', 'security', 'python', 'rich'],
+    classifiers=[
+        "Development Status :: 1 - Planning",
+        "Intended Audience :: Powe Users",
+        "Operatin System :: Unix & Unix Like",
+        "Programing Language :: Python :: 3.9",
+    ]
 )
