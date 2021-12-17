@@ -15,19 +15,19 @@ NOTE: This is a WIP, its not finished and needs lots of work
 git clone https://github.com/Mattio-cmd/spg  
 `
 
-`cd spg/src`
+`cd spg/spg`
 
 `chmod +x spg`
 
 `./spg.py`
 
 - If you want to use this program anywhere on your system just type the following command (with root priviledges):  
-`
+` shell
 cp spg.py /usr/bin
 `
 
 #### With pip
-~~`pip3 install spg`  ~~ Coming soon
+`pip3 install spg`  ~~ Coming soon
 
 `pip3 install rich`
 
