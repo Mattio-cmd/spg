@@ -4,9 +4,9 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setup(
-    name='passgpy',
+    name='spg',
     version='1.0.0',
-    license='MIT',
+    license='GPL 3.0',
     author='Mattio-cmd',
     author_email='mattioc@protonmail.com',
     url='https://github.com/Mattio-cmd/',
@@ -14,6 +14,6 @@ setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     include_package_data=True,
-    install_requires=['rich'],
-    keywords=['password', 'cli', 'security', 'python'],
+    install_requires=['rich', 'pyperclip'],
+    keywords=['password', 'cli', 'security', 'python', 'rich'],
 )
