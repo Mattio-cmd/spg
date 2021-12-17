@@ -17,7 +17,7 @@ git clone https://github.com/Mattio-cmd/spg
 
 `cd spg/src`
 
-`chmod +x spg.py`
+`chmod +x spg`
 
 `./spg.py`
 

@@ -16,8 +16,8 @@ srandom = secrets.SystemRandom;
 alphabet = string.ascii_letters + string.digits
 
 console.print(Panel("🔒  [bold green] spg: secure password generator [/] 🔒 ", expand=False, border_style="red"));
-lenghtnum = console.input("[yellow] password lenght (200 max): ");
-length = int(lenghtnum);
+lengthnum = console.input("[yellow] password length (200 max): ");
+length = int(lengthnum);
 if length > 200:
     console.print("❌ [red]The password can not be more than 200 characters");
 else:
