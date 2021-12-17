@@ -21,7 +21,7 @@ cd passgpy
 - python 3.9.9 or higher
   * Altough it may run in just python 3.2, who knows
 - rich
-  * For this, just follow the instructions for rich under [Installation](#Installation)
+  * For this, just follow the instructions for rich under [Installation](https://github.com/Mattio-cmd/spg#installation)
 - A font that supports emojis
   * In my case, i use [`ios-emoji`](https://aur.archlinux.org/packages/ttf-apple-emoji/) from the AUR
 
@@ -30,5 +30,5 @@ cd passgpy
 - I took inspiration from [gruvbox-factory](https://github.com/paulopacitti/gruvbox-factory)
 
 ## DONATE
-If you want to support me, be sure to donate!  
+If you want to support me, as i am a solo dev, be sure to donate!  
 *Monero:* 86W4rh9r9MBDybZoXdKfzCecmgKsf4u9yXU5YStVKrVigkMwUbzSSsHUTh2ZvkqeFoK2f6MXPCfNSUbXQqEVzLJz3tandmj
