@@ -20,6 +20,8 @@ cd passgpy
   * It is needed for copying the password automatically.
 - python 3.9.9 or higher
   * Altough it may run in just python 3.2, who knows
+- rich
+  * For this, just follow the instructions for rich under [Installation](#Installation)
 - A font that supports emojis
   * In my case, i use [`ios-emoji`](https://aur.archlinux.org/packages/ttf-apple-emoji/) from the AUR
 
