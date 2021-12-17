@@ -1,5 +1,6 @@
 # spg
 - The secure password generator
+- Actuall randomness as it uses the secret library
 - Built with the [*rich*](https://github.com/willmcgugan/rich) python library  
 
 NOTE: This is a WIP, its not finished and needs lots of work
