@@ -7,7 +7,7 @@
 NOTE: This is a WIP, its not finished and needs lots of work
 
 ## Demonstration
-![demo](https://user-images.githubusercontent.com/78447457/146578566-3d2895c1-0d05-41c9-9660-a6aae6929ac7.mp4)
+![Demo (in mp4)](https://user-images.githubusercontent.com/78447457/146578566-3d2895c1-0d05-41c9-9660-a6aae6929ac7.mp4)
 
 ## Installation
 #### With git
