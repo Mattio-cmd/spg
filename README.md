@@ -1,5 +1,6 @@
-# passgpy
-- Built with *rich* python library
+# spg
+- The secure password generator
+- Built with the [*rich*](https://github.com/willmcgugan/rich) python library
 NOTE: This is a WIP, its not finished and needs lots of work
 
 ## Installation
@@ -13,7 +14,9 @@ pip3 install passgpy
 
 ## Dependencies
 - xclip (optional)
+  * It is needed for copying the password automatically.
 - python 3.9.9 or higher
+  * Altough it may run in just python 3.2, who knows
 - A font that supports emojis
   * In my case, i use `[ios-emoji](https://aur.archlinux.org/packages/ttf-apple-emoji/)` from the AUR
 
