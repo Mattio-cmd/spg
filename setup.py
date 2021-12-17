@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name='spg',
-    version='1.0.0',
+    version='0.0.1',
     license='GPL 3.0',
     author='Mattio-cmd',
     author_email='mattioc@protonmail.com',
