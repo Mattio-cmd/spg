@@ -10,7 +10,7 @@ NOTE: This is a WIP, its not finished and needs lots of work
 git clone https://github.com/Mattio-cmd/spg  
 `
 
-`cd spg`
+`cd spg/src`
 
 `chmod +x spg.py`
 
