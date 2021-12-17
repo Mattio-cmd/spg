@@ -1,25 +1,19 @@
 #!/usr/bin/env python3
-# Imports
 import secrets;
 import string;
 import pyperclip;
 from rich.console import Console;
 from rich.panel import Panel;
 
-# rich variables
 console = Console();
-
-# random variables
 srandom = secrets.SystemRandom;
-
-# Possible letters/digits to use
 alphabet = string.ascii_letters + string.digits;
 
 console.print(Panel("🔒  [bold green] spg: secure password generator [/] 🔒 ", expand=False, border_style="red"));
-lengthnum = console.input("[yellow] password length (200 max): ");
+lengthnum = console.input("[yellow] password length: ");
 length = int(lengthnum);
-if length > 200:
-    console.print("❌ [red]The password can not be more than 200 characters");
+if length < 0:
+    console.print("❌ [red]The password can not be less than zero");
 else:
     password = ''.join(secrets.choice(alphabet) for i in range(length));
     console.print("[bold blue]pass: ", password);
