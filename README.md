@@ -1,9 +1,13 @@
 # spg
 - The secure password generator
 - Actuall randomness as it uses the secret library
+- Cryptography 100% insured!
 - Built with the [*rich*](https://github.com/willmcgugan/rich) python library  
 
 NOTE: This is a WIP, its not finished and needs lots of work
+
+## Demonstration
+<img src="https://github.com/Mattio-cmd/spg/example/demonstration.mp4" alt="demonstration1" width=380px>
 
 ## Installation
 #### With git
