@@ -8,14 +8,13 @@ NOTE: This is a WIP, its not finished and needs lots of work
 #### With git
 `
 git clone https://github.com/Mattio-cmd/passgpy  
-
-cd passgpy  
-
-chmod +x spg.py  
-
-./spg.py  
-
 `
+`cd spg`
+
+`chmod +x spg.py`
+
+`./spg.py`
+
 - If you want to use this program anywhere on your system just type the following command (with root priviledges):  
 `
 cp spg.py /usr/bin
