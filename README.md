@@ -11,6 +11,12 @@ cd passgpy
 #### With pip
 pip3 install passgpy
 
+## Dependencies
+- xclip (optional)
+- python 3.9.9 or higher
+- A font that supports emojis
+  * In my case, i use `[ios-emoji](https://aur.archlinux.org/packages/ttf-apple-emoji/)` from the AUR
+
 
 ## Inpiration
 - I took inspiration from [gruvbox-factory](https://github.com/paulopacitti/gruvbox-factory)
