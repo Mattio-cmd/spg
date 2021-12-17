@@ -13,7 +13,7 @@ cd passgpy
 `
 
 #### With pip
-`pip3 install passgpy`
+`pip3 install passgpy`  
 `pip3 install rich`
 - For clipboard support (optional)
 `pip3 install pyperclip` 
