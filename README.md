@@ -7,7 +7,7 @@ NOTE: This is a WIP, its not finished and needs lots of work
 ## Installation
 #### With git
 `
-git clone https://github.com/Mattio-cmd/passgpy  
+git clone https://github.com/Mattio-cmd/spg  
 `
 
 `cd spg`
