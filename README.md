@@ -14,7 +14,7 @@ chmod +x spg.py
 `
 - If you want to use this program anywhere on your system just type the following command (with root priviledges):  
 `
-# cp spg.py /usr/bin
+cp spg.py /usr/bin
 `
 
 #### With pip
