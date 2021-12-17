@@ -20,3 +20,8 @@ pip3 install passgpy
 
 ## Inpiration
 - I took inspiration from [gruvbox-factory](https://github.com/paulopacitti/gruvbox-factory)
+
+## DONATE
+If you want to support me, be sure to donate!  
+*Monero:* 86W4rh9r9MBDybZoXdKfzCecmgKsf4u9yXU5YStVKrVigkMwUbzSSsHUTh2ZvkqeFoK2f6MXPCfNSUbXQqEVzLJz3tandmj
+
