@@ -14,6 +14,9 @@ cd passgpy
 
 #### With pip
 `pip3 install passgpy`
+`pip3 install rich`
+- For clipboard support (optional)
+`pip3 install pyperclip` 
 
 ## Dependencies
 - xclip (optional)
@@ -22,6 +25,8 @@ cd passgpy
   * Altough it may run in just python 3.2, who knows
 - rich
   * For this, just follow the instructions for rich under [Installation](https://github.com/Mattio-cmd/spg#installation)
+- pyperclip
+  * Refer to [Installation](https://github.com/Mattio-cmd/spg#installation)
 - A font that supports emojis
   * In my case, i use [`ios-emoji`](https://aur.archlinux.org/packages/ttf-apple-emoji/) from the AUR
 
