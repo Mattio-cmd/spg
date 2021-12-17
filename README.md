@@ -27,8 +27,10 @@ cp spg.py /usr/bin
 `
 
 #### With pip
-`pip3 install passgpy`  
+~~`pip3 install spg`  ~~ Coming soon
+
 `pip3 install rich`
+
 - For clipboard support (optional)
 `pip3 install pyperclip` 
 
