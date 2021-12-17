@@ -7,7 +7,7 @@
 NOTE: This is a WIP, its not finished and needs lots of work
 
 ## Demonstration
-<img src="https://github.com/Mattio-cmd/spg/example/demonstration.mp4" alt="demonstration1" width=380px>
+<img src="https://github.com/Mattio-cmd/spg/blob/main/examples/demonstration1.mp4" alt="demonstration1" width=380px>
 
 ## Installation
 #### With git
