@@ -7,7 +7,7 @@ from rich.panel import Panel;
 
 console = Console();
 srandom = secrets.SystemRandom;
-alphabet = string.ascii_letters + string.digits;
+alphabet = string.ascii_letters + string.digits + string.punctuation;
 
 console.print(Panel("🔒  [bold green] spg: secure password generator [/] 🔒 ", expand=False, border_style="red"));
 lengthnum = console.input("[yellow] password length: ");
